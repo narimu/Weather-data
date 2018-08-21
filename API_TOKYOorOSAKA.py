@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#東京か大阪の特定の日付の気象情報をOpenWeatherMapWEBAPIを利用して取得したのちSQLに書き込む
+
 import json
 import datetime
 import os
