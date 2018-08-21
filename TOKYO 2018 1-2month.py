@@ -1,3 +1,4 @@
+#東京の過去の天気データを表示してSQLに保存
 import requests
 from bs4 import BeautifulSoup
 import numpy as np
